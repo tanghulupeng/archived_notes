@@ -1,0 +1,32 @@
+## 真核生物的組織分化、胚胎發育與基因表現調控
+
+- 胚胎分化基本概念
+  - 細胞分化的訊息來源
+    - Cytoplasmic determinants in the egg 不均勻分布，使得卵裂後細胞命運不同
+    - 胞外訊號刺激
+  - 多個 Regulators 的 Combinational Controls，帶來不同類型的細胞
+  - 模式生物 : 對於 *Drosophila* 胚胎發育的研究與啟發
+    - 例如 *Eve* gene 可以非常剛好的，讓果蠅的每個體節都是特定寬度
+- **Master Transcription Regulators** commit the cells to a certain fate
+  - 例如肌肉細胞分化的 Regulator MyoD
+  - 許多 Master Transcription Regulators 的表現為 Positive Feedback，如 MyoD
+- **Cell Memory**
+  - Cell Memory 定義
+    - Differentiated cells maintain their identity through each cell division in the life of an individual 
+  - 透過 Positive Feedback，細胞得以維持特定的 Cell Fate (最重要的機制)
+    - 如 Master Transcription Regulators 就會產生 Positive Feedback
+    - 細胞分裂時，Regulators 會傳到子細胞，從而讓子細胞也維持同樣的 Cell Fate
+  - DNA 和 Histone 的修飾，可增強 Cell Memory (在下方詳細敘述)
+- 其他瑣碎資訊
+  - iPS (誘導型多潛能幹細胞) 技術 (在 CH 22 會講得更仔細)
+  - 分化後的細胞，仍必須快速調控 Regulators 以因應環境變化
+  - Transcription Circuit 如同電路邏輯閘般，可以使細胞有邏輯的因應各種變化
+- 透過 **Epigenetic Inheritance**，子細胞能夠穩定的呈現母細胞的分化特性
+  - 穩定的呈現母細胞的基因表現特性、維持母細胞的染色體結構
+  - 只影響單一染色體基因 (*cis*)
+    - DNA 甲基化
+    - Histone 修飾
+  - 影響兩同源染色體基因 (*trans*)
+    - Positive Feedback
+    - Protein Aggregation
+- DNA 和 Histone 的修飾、染色體的結構維持，可增強 Cell Memory
