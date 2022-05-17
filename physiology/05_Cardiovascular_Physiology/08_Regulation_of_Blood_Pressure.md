@@ -1,0 +1,37 @@
+- 動脈
+  - 血壓
+    - SP、DP、PP、MAP
+      - SP = 收縮壓, DP = 舒張壓, PP= pluse pressure
+      - Mean arterial pressure = DP + ⅓ (SP-DP)
+    - 測血壓
+      - korotkof's sound
+  - 動脈管徑
+    - 由平滑肌調控：神經、內分泌、局部
+      - 神經
+        - 交感神經
+          - 去甲基腎上腺素只作用在 alpha recetpor: vasoconstriction
+      - 內分泌
+        - 腎上腺素
+          - alpha receptor: vasoconstriction
+          - beta2 receptor: vasodilation
+        - Angiotensin II of RAS
+        - Vasopressin
+        - Atrial natriuretic peptide
+      - 局部
+        - flow autoregulation
+        - active hyperemia 營養不夠，促使血管打開
+        - reactive hyperemia 發生在血管堵住後，再次流通時 (解開繃帶，傷部會瞬間充血)
+        - response to injury
+  - 某些部位的動脈，主要只有 local control
+    - heart, kidney, brain
+- 微血管
+  - 四大物質交換方式: 擴散、囊泡、載體、Bulk flow
+  - HP、OP、NFP (HP - OP)
+- 靜脈
+- 淋巴
+- Baroreceptor Reflexes
+  - 心血管系統調控中心公式：
+    - MAP = Cardiac Output × Total peripheral resisitance
+  - MAP 的調控方式
+  - Baroreceptor
+  - 延腦

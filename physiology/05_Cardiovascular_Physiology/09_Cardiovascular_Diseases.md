@@ -1,0 +1,17 @@
+- 重力對於循環的重要性
+- 運動時的循環系統
+- 心血管疾病
+  - 高血壓
+    - 原發性高血壓
+    - 次發性高血壓
+    - 降血壓藥物
+  - Shock (休克)
+    - Hypovolemic shock (血容積過少導致的休克；失血性休克)
+    - Cardiaogenic shock (心因性休克)
+    - Low-resistance shock??
+  - 心臟衰竭
+    - Systolic dysfunction
+    - Diastolic dysfunction
+  - 心肌梗塞 (Myocardial infarction)
+  - Hypertrophic cardiomyopathy (肥厚性心肌症；遺傳疾病)
+  - 氣球血管擴張術、支架
