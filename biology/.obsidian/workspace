@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "3668405de2088106",
+    "type": "split",
+    "children": [
+      {
+        "id": "db60ff3d2e979bc0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "U2. The Cell.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e06857310e45e8bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ebf2493c73e059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2654e0812e709003",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96853b4b31354d84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356
+  },
+  "right": {
+    "id": "68b9f376630f3d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd02fd1d31941da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d825af7b9d1d5ccf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "U2. The Cell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db60ff3d2e979bc0",
+  "lastOpenFiles": [
+    "U2. The Cell.md",
+    "U3. Genetics.md",
+    "U4. Mechanisms of Evolution.md",
+    "U5. The Evolutionary History of Biological Diversity.md",
+    "U6. Plant Form and Function.md",
+    "U7. Animal Form and Function.md",
+    "Untitled.md",
+    "U1. Chemical Basis.md"
+  ]
+}
